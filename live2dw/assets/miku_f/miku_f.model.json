@@ -1,0 +1,9 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"miku_f.moc",
+	"textures":[
+		"miku_f.2048/texture_00.png",
+		"miku_f.2048/texture_01.png"
+	],
+	"physics":"embed://Sample Physics.json"
+}
