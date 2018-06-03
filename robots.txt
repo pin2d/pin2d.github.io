@@ -3,6 +3,7 @@ Allow: /
 Allow: /archives/
 Allow: /tags/
 Allow: /categories/
+Allow: /en/
 
 Disallow: /vendors/
 Disallow: /js/
@@ -13,3 +14,4 @@ Disallow: /fancybox/
 
 Sitemap: http://pin2d.com/sitemap.xml
 Sitemap: http://pin2d.com/baidusitemap.xml
+Sitemap: http://pin2d.com/en/sitemap.xml
