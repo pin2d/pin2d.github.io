@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://pin2d.com/thesis/20180924/</loc>
-    <lastmod>2018-09-25T04:08:24.839Z</lastmod>
+    <lastmod>2018-09-25T06:08:41.529Z</lastmod>
     <data>
         <display>
         <title>電繪矯正班總集篇1 - 正確的骨架觀念</title>
@@ -23,6 +23,32 @@
            
              
               <breadCrumb title="教學影片" url="http://pin2d.com/categories/%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://pin2d.com/thesis/20180531/</loc>
+    <lastmod>2018-09-25T05:46:04.285Z</lastmod>
+    <data>
+        <display>
+        <title>從點線面來思考構圖1 - 點的位置</title>
+        <pubTime>2018-05-31T01:41:09.000Z</pubTime>
+        
+        <tag>動漫創作</tag>
+         
+        <tag>繪圖理論</tag>
+         
+        <tag>系列研究</tag>
+         
+        <tag>構圖技巧</tag>
+         
+         
+           
+             
+              <breadCrumb title="畫技理論" url="http://pin2d.com/categories/%E7%95%AB%E6%8A%80%E7%90%86%E8%AB%96/"/>
           
         </display>
     </data>
@@ -49,32 +75,6 @@
            
              
               <breadCrumb title="張力表現" url="http://pin2d.com/categories/%E5%BC%B5%E5%8A%9B%E8%A1%A8%E7%8F%BE/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://pin2d.com/thesis/20180531/</loc>
-    <lastmod>2018-07-11T06:47:09.665Z</lastmod>
-    <data>
-        <display>
-        <title>從點線面來思考構圖1 - 點的位置</title>
-        <pubTime>2018-05-31T01:41:09.000Z</pubTime>
-        
-        <tag>動漫創作</tag>
-         
-        <tag>繪圖理論</tag>
-         
-        <tag>系列研究</tag>
-         
-        <tag>構圖技巧</tag>
-         
-         
-           
-             
-              <breadCrumb title="畫技理論" url="http://pin2d.com/categories/%E7%95%AB%E6%8A%80%E7%90%86%E8%AB%96/"/>
           
         </display>
     </data>
